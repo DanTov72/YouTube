@@ -1,4 +1,4 @@
-package com.example.youtube.data.interseptors
+package com.example.youtube.data.remote.interseptors
 
 import okhttp3.Interceptor
 import okhttp3.Response

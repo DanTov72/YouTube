@@ -1,6 +1,6 @@
 package com.example.youtube.data.remote
 
-import com.example.youtube.data.interseptors.ApiKeyInterceptor
+import com.example.youtube.data.remote.interseptors.ApiKeyInterceptor
 import com.example.youtube.data.remote.apiservices.VideoApiServices
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
